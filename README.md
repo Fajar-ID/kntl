@@ -1,5 +1,8 @@
-# kntl
-Hanya mencoba member ua ya kntl
+Gak tau hasil gimana, coba test, kalau bug laporkan,
+Kalau kuning maap bree, usahakan crack fb publik yang sekota/kabupaten/kecamatan,
+Ingin pakai user agent sendiri?, Silahkan Tapi Usahakan cek lokasi jaringan pakek fb seperti di foto, biar jelas lokasi jaringan kalian, mode pesawat setiap 5-10 menit
+Semoga tap yes, saya sendiri memakai jaringan axis apn bawaan
+
 
 pkg update && pkg upgrade
 
