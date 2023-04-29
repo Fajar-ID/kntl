@@ -33,3 +33,6 @@ cd kntl
 git pull
 
 python BrayennnFB.py
+
+
+atau python kntl.py
