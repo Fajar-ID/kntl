@@ -4,6 +4,8 @@ Ingin pakai user agent sendiri?, Silahkan Tapi Usahakan cek lokasi jaringan pake
 Semoga tap yes, saya sendiri memakai jaringan axis apn bawaan
 
 -pilih brayenn.py untuk ua yang biasa saya gunakan
+
+
 -pilih kntl.py untuk testing ua
 
 pkg update && pkg upgrade
