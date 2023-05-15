@@ -32,7 +32,7 @@ cd kntl
 
 git pull
 
-python BrayennnFB.py
+python kntl.py
 
 
-atau python kntl.py
+atau python kntl-v2.py
