@@ -3,10 +3,7 @@ Kalau kuning maap bree, usahakan crack fb publik yang sekota/kabupaten/kecamatan
 Ingin pakai user agent sendiri?, Silahkan Tapi Usahakan cek lokasi jaringan pakek fb seperti di foto, biar jelas lokasi jaringan kalian, mode pesawat setiap 5-10 menit
 Semoga tap yes, saya sendiri memakai jaringan axis apn bawaan
 
--pilih brayenn.py untuk ua yang biasa saya gunakan
-
-
--pilih kntl.py untuk testing ua
+Pilih Yang Mana kalian mau ya kontol
 
 pkg update && pkg upgrade
 
